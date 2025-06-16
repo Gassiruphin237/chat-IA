@@ -1,0 +1,29 @@
+#login{
+    background: #3fa5ee;
+}
+#login h1{
+    text-align: center;
+    color: #ffff;
+
+}
+ #login .row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.col-md-3{
+    text-align: center;
+}
+.col-md-3 h1{
+    font-weight: bold !important;
+    font-size: 22px;
+}
+#login{
+    padding: 50px;
+    /* display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center; */
+}

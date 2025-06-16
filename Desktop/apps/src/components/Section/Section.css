@@ -1,0 +1,28 @@
+.tiret{
+    height: '4px' !important;
+    width: '80px' !;
+    background: '#26348C' !important;
+    margin: '0 auto';
+    margin-top: '-10px';
+    border-radius: '5px';
+}
+.button{
+  font-size: 16px; 
+  border: none;
+  /* border-radius: 5px; */
+  padding: 10px;  
+  background: #ffff;
+  color: #26348C;
+  border: 1px solid #26348C;
+  transition: 0.4s ease-in;
+}
+#fleche{
+    color: #26348C !important;
+}
+.button:hover{
+  background: #26348C;
+  color: #ffff;
+}
+#fleche:hover{
+  color: #ffff !important;
+}
